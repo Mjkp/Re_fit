@@ -1,4 +1,4 @@
-1[](image.jpeg)
+![main image](image.jpeg)
 
 # Re_fit
 
