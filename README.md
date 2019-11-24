@@ -9,8 +9,8 @@ The projection installation entitled ‘Re-fit’, will aim to question the proc
 
 
 ## Material
-
 * requires toxiclib library in processing
+* kinect windows SDK
 
 ## Video
 https://vimeo.com/346115808
